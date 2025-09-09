@@ -1,0 +1,8 @@
+services:
+  - type: web
+    name: degitalina
+    env: php
+    branch: master
+    rootDir: public
+    buildCommand: ""
+    startCommand: ""
