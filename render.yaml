@@ -1,9 +1,0 @@
-services:
-  - type: web
-    name: degitalina
-    env: php
-    plan: free
-    branch: master
-    rootDir: public
-    buildCommand: ""
-    startCommand: ""
